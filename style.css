@@ -12,7 +12,7 @@ a{
 }
 .btn-main{
     background: linear-gradient(to right, rgb(153, 180, 185),
-        rgb(27, 95, 134));
+        rgb(46, 125, 170));
 }
 .btn:hover {
     transform: translateY(-5px);
