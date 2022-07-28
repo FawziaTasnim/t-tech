@@ -1,0 +1,31 @@
+a{
+    transition: all 0.4s ease;
+    font-weight: 800;
+}
+.nav-register{
+    margin-left: 100px;
+}
+.btn{
+    padding: 14px 22px;
+    transition: all 0.4s ease;
+        font-weight: 800;
+}
+.btn-main{
+    background: linear-gradient(to right, rgb(153, 180, 185),
+        rgb(27, 95, 134));
+}
+.btn:hover {
+    transform: translateY(-5px);
+}
+.bg-main{
+    background: linear-gradient(to right, rgb(92, 100, 102),
+        rgb(129, 154, 168));
+}
+.bg-nav{
+  background: linear-gradient(to right, rgb(224, 228, 230),
+        rgb(214, 230, 238));  
+}
+.text-main{
+    color: linear-gradient (to right, rgb(171, 188, 197),
+        rgb(192, 216, 229)); 
+}
